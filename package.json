@@ -1,0 +1,26 @@
+{
+  "name": "doctors-appointment-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f4ayush/doctors-appointment-app.git"
+  },
+  "keywords": [],
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f4ayush/doctors-appointment-app/issues"
+  },
+  "homepage": "https://github.com/f4ayush/doctors-appointment-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
